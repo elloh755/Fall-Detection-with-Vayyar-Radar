@@ -1,5 +1,7 @@
 Fall-Detection-with-Vayyar-Radar
+
 Jorge Mazariegos,Danny Nguyen, Liam O’Donnell
+
 Project Overview:
 We plan to use the provided Walabot Vayyar Radar to collect real world data of people moving within a room and trying to distinguish whether or not they have fallen. We would like to be able to detect a fall and upon detection of a fall have an automated text message sent to a recipient, like a family member. 
 
